@@ -42,7 +42,7 @@ const Home = () => {
     return (
         <div className="homePageWrapper">
             <div className="formWrapper">
-                <img className="homePageLogo" src="/icon.png" alt="code-sync-logo" />
+              <h1 style={{margin:'auto',textAlign:'center'}}>CodeBuddy</h1>
                 <h3>&emsp;&emsp;&ensp;Online Real-time Collaborative IDE!</h3>
                 <div className="inputGroup">
                     <input
